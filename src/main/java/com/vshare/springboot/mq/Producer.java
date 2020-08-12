@@ -6,8 +6,8 @@ import org.apache.rocketmq.client.exception.MQClientException;
 import org.apache.rocketmq.client.producer.DefaultMQProducer;
 import org.springframework.stereotype.Component;
 
-@Slf4j
-@Component
+//@Slf4j
+//@Component
 public class Producer {
     private String producerGroup = "test_producer";
     private DefaultMQProducer producer;

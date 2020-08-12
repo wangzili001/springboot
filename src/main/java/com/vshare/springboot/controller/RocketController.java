@@ -21,7 +21,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 
-@RestController
+//@RestController
 public class RocketController {
     @Autowired
     private Producer producer;
