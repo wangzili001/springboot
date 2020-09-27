@@ -1,8 +1,0 @@
-{
-  "sentinelServersConfig":{
-    "sentinelAddresses": ["redis://hadoop1:26379","redis://hadoop2:36379","redis://hadoop3:46379"],
-    "masterName": "mymaster",
-    "database":0,
-    "password":""
-  }
-}
